@@ -1,5 +1,5 @@
 ---
-title: Terms of Use
+title: Contributing
 use_file: "https://github.com/mobilecoinfoundation/mobilecoin/blob/master/CONTRIBUTING.md"
 hide_title: true
 ---
